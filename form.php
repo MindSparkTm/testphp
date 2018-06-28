@@ -1,10 +1,10 @@
 
 
 <?php
-$servername = "mysql8.db4free.net:3307/fbaccount";
+$servername = "mysql8.db4free.net:3307";
 $username = "sdas16";
 $password = "mom12345!";
-$dbname = "fbaccount";
+$dbname = "fbaccountss";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
